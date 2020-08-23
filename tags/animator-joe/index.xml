@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>animator-joe - Tag - Joseph Jin&#39;s Website</title>
+        <link>http://animatorjoe.github.io/tags/animator-joe/</link>
+        <description>animator-joe - Tag - Joseph Jin&#39;s Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>josephjin@berkeley.edu (Joseph Jin)</managingEditor>
+            <webMaster>josephjin@berkeley.edu (Joseph Jin)</webMaster><lastBuildDate>Sun, 23 Aug 2020 16:33:30 -0500</lastBuildDate><atom:link href="http://animatorjoe.github.io/tags/animator-joe/" rel="self" type="application/rss+xml" /><item>
+    <title>Life as Animator Joe</title>
+    <link>http://animatorjoe.github.io/animator/</link>
+    <pubDate>Sun, 23 Aug 2020 16:33:30 -0500</pubDate>
+    <author>Author</author>
+    <guid>http://animatorjoe.github.io/animator/</guid>
+    <description><![CDATA[I am not just a developer, but also an animator. I make stop motion animations with legos and post them under my YouTube channel Animator Joe. Be warn, the channel is NSFW.
+The channel started when I was in middle school, when I decided to make a lego music video for the song Dumb Ways to Die. The video was a hit! Reaching 100k views in a few months when my channel had only 5 subscribers.]]></description>
+</item></channel>
+</rss>
