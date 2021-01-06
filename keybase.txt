@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/josephjin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://josephjin.dev
+  * I am josephjin (https://keybase.io/josephjin) on keybase.
+  * I have a public key ASC-tlW5jUTNZ-2Rbwe4WNd77T3IoLpB2zXGLAlkGK2MNwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120beb655b98d44cd67ed916f07b858d77bed3dc8a0ba41db35c62c096418ad8c370a",
+      "host": "keybase.io",
+      "kid": "0120beb655b98d44cd67ed916f07b858d77bed3dc8a0ba41db35c62c096418ad8c370a",
+      "uid": "187c65b7516ace34adc2a30d2f6d5519",
+      "username": "josephjin"
+    },
+    "merkle_root": {
+      "ctime": 1609956271,
+      "hash": "21638c64573ba92e07ae550815380ce5fbed0d7be8d6227d297759f0400210d45654478f9d07ea003106de0f95dc5158f10e5defbddc04726073fa510a2c5527",
+      "hash_meta": "0ebbe34c06d5eaccef1c3b01ae638edc7974b9fb6ce24c2804ae8f1b66831cb4",
+      "seqno": 18615114
+    },
+    "service": {
+      "entropy": "rJAwVg86TessVfaLSNdVEdJu",
+      "hostname": "josephjin.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1609956300,
+  "expire_in": 504576000,
+  "prev": "c678cf8d336105d3b37d88b5827622b91e7db042d07c8749f75b34756132ecf7",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvrZVuY1EzWftkW8HuFjXe+09yKC6Qds1xiwJZBitjDcKp3BheWxvYWTESpcCCcQgxnjPjTNhBdOzfYi1gnYiuR59sELQfIdJ91s0dWEy7PfEIBsPyMgZW4T6HZDQ179U/ktkX8RD2qEhWXheZxRPMOm2AgHCo3NpZ8RAcV85aZSeT95l28jgLqs87HbUX0ybaeJIqGIe2lK0Bp4tJKN740lYjO3dNBvVRv6Xc26oz1scq6gU4XE8Yyd9DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAkJ4/cNyQwQd4G9Co6+yvw3X3Uh6E/fygcHMisB5nljo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/josephjin
+
+==================================================================
